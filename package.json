@@ -1,0 +1,23 @@
+{
+  "name": "imbuto-hub-qa",
+  "version": "1.0.0",
+  "description": "This repository contains unit test cases for the imbuto informational websit and also the dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanjalaangela/Imbuto-hub-QA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanjalaangela/Imbuto-hub-QA/issues"
+  },
+  "homepage": "https://github.com/wanjalaangela/Imbuto-hub-QA#readme",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
